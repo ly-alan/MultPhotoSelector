@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg">#ff7700</color>
+    <color name="preview_gray">#888888</color>
+    <color name="transparent_bg">#88ff7700</color>
+    <color name="background_post">#ff7700</color>
+    <color name="background_post_press">#d9740e</color>
+
+</resources>
